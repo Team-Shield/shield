@@ -1,4 +1,4 @@
-# [shield-bot](https://telegram.me/shield_team)
+# [shield-bot](https://telegram.me/shieldrobot)
 
 # Installation
 
@@ -15,6 +15,8 @@ chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
 ```
-#sudo 
-### [behrad](https://telegram.me/M_O_T_A_F_E_G_H_I_N)
-### [behrad](https://telegram.me/Xxx_sargardan_xxx)
+
+* **SUDO** [sargardan](https://telegram.me/Xxx_sargardan_xxX)
+* **SUDO** [behrad](https://telegram.me/M_O_T_A_F_E_G_H_I_N)
+
+ *Channel:[Shield_Team](https://telegram.me/Shield_Team)
