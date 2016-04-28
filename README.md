@@ -19,4 +19,4 @@ chmod +x launch.sh
 * **SUDO** [sargardan](https://telegram.me/Xxx_sargardan_xxX)
 * **SUDO** [behrad](https://telegram.me/M_O_T_A_F_E_G_H_I_N)
 
- *Channel:[Shield_Team](https://telegram.me/Shield_Team)
+* *Channel*:[Shield_Team](https://telegram.me/Shield_Team)
